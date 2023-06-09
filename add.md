@@ -1,6 +1,6 @@
 [< к содержанию](readme.md)
 
-# <kbd>git add</kbd>
+# <img src="Git-Icon-1788C.png" width="17"> <kbd>git add</kbd> 
 
 Добавить файлы в индекс — **git add *[файл]***. После ввода этой команды вы можете сделать коммит.
 
