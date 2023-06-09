@@ -1,6 +1,6 @@
 # **Инструкция по работе с GIT**
 
-![git-logo](Git-logo.svg.png)
+<img src="Git-logo.svg.png" width="350">
 
 ---
 ### Содержание:
