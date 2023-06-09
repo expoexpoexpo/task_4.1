@@ -6,9 +6,11 @@ LICENSE: [MIT](license.md)
 
 ---
 ### Содержание:
-1. Что-то
+1. [main page](readme.md)
 2. [git add](add.md)
 3. [git status](status.md)
+4. [git commit](commit.md)
+
 
 
 ---
