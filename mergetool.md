@@ -1,8 +1,10 @@
 [< к содержанию](readme.md)
 
-# git mergetool
+# <kbd>git mergetool</kbd>
 
 Команда ***git mergetool*** просто вызывает внешнюю программу слияний, в случае если у вас возникли проблемы слияния.
+
+---
 
 ```bash=
 git mergetool   

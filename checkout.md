@@ -1,8 +1,10 @@
 [< к содержанию](readme.md)
 
-# git checkout
+# <kbd>git checkout</kbd>
 
 Команда ***git checkout*** используется для переключения веток и выгрузки их содержимого в рабочую директорию.
+
+---
 
 ```bash=
 git checkout   
